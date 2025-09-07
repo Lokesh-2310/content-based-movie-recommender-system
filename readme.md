@@ -1,10 +1,3 @@
-### In this project I made a content-based movie recommender system.
-### To execute the app1.py file run the following command in your terminal "streamlit run app1.py".
-
-### link of the csv file used in this project : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
-
-### for using pkl file execute the jupyter notebook command in your device
-
 # Content-Based Movie Recommender System
 
 A Python-based content-driven movie recommendation system that suggests similar films based on metadata such as descriptions, genres, and cast. The system utilizes natural language processing (NLP) techniques and cosine similarity to provide accurate recommendations.
@@ -47,7 +40,7 @@ A Python-based content-driven movie recommendation system that suggests similar 
 
 4. Run the file:
    ```bash
-  streamlit run app1.py
+   streamlit run app1.py
 
 5. Poject Structure : 
   ```perl
